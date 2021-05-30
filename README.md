@@ -5,7 +5,7 @@ Tento priečinok obsahuje kód konvolučnej neurónovej siete určenej pre detek
 
 ### Obsah:
 <ul>
-  <li>Súbor <strong>CNNcovid-source_code.ipynb</strong> - zdrojový kód, ktorý obsahuje: celú úpravu dát a rozdelenie množín, vytváranie modelu, jeho trénovanie, testovanie s výsledkami a zobrazenie nesprávne klasifikovaných prípadov.</li>
+  <li>Súbor <strong>Model_source.ipynb</strong> - zdrojový kód, ktorý obsahuje: celú úpravu dát a rozdelenie množín, vytváranie modelu, jeho trénovanie, testovanie s výsledkami a zobrazenie nesprávne klasifikovaných prípadov.</li>
   <li>Súbor <strong>mymodel.hdf5</strong> - model, ktorý bol natrénovaný a môže byť použitý na klasifikáciu.</li>
 </ul>
 
@@ -25,7 +25,7 @@ This repository contains code of CNN used for COVID-19 detection from CT scans a
 
 ### Contains: 
 <ul>
-  <li>File <strong>CNNcovid-source_code.ipynb</strong> - source code which includes: entire data preparation and datasets splitting, model building, training, testing with results and showcase of incorrectly classified cases.</li>
+  <li>File <strong>Model_source.ipynb</strong> - source code which includes: entire data preparation and datasets splitting, model building, training, testing with results and showcase of incorrectly classified cases.</li>
   <li>File <strong>mymodel.hdf5</strong> - model that has been trained and can be used for classification.</li>
 </ul>
 
