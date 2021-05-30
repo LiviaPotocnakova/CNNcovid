@@ -1,4 +1,4 @@
-# CNNcovid
+# COVID detection
 This repository contains code of CNN used for COVID detection from CT scans and a trained model. It's a part of my bachelor thesis. 
 
 ### Contains: 
